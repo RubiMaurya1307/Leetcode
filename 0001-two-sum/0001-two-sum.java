@@ -1,17 +1,19 @@
-import java.util.HashMap;
 class Solution {
-    public int[] twoSum(int[] nums, int target) 
-    {
-        HashMap<Integer, Integer> numToIndex = new HashMap<>();
-        for(int i=0; i< nums.length; i++)
+    public int[] twoSum(int[] nums, int target) {
+        int n = nums.length;
+        // int ans[] = new int[2];
+        int req;
+        for(int i=0; i<n; i++)
         {
-            int comp = target - nums[i];
-             if(numToIndex.containsKey(comp))
+            for(int j=i+1; j <n; j++)
+            {
+                if(target == nums[i] + nums[j])
                 {
-                    return new int [] {numToIndex.get(comp), i};
+                    int ans[] = {i, j};
+                return ans;
                 }
-            numToIndex.put(nums[i], i);
+            }
         }
-     return new int [] {};   
+        return null;
     }
 }
