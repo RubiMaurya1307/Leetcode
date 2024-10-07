@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/RubiMaurya1307/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/RubiMaurya1307/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/RubiMaurya1307/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
