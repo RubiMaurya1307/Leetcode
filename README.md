@@ -22,6 +22,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/RubiMaurya1307/Leetcode/tree/master/0792-binary-search) |
+| [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
 | [2048-build-array-from-permutation](https://github.com/RubiMaurya1307/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@
 | [0027-remove-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0283-move-zeroes) |
+| [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
