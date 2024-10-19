@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/RubiMaurya1307/Leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
