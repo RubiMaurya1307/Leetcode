@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/RubiMaurya1307/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -34,6 +35,7 @@
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/RubiMaurya1307/Leetcode/tree/master/2048-build-array-from-permutation) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
