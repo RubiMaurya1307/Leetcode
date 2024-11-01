@@ -29,6 +29,7 @@
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RubiMaurya1307/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/RubiMaurya1307/Leetcode/tree/master/0792-binary-search) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -45,6 +46,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RubiMaurya1307/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0414-third-maximum-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
