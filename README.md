@@ -29,6 +29,7 @@
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RubiMaurya1307/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0605-can-place-flowers) |
 ## Counting Sort
 |  |
 | ------- |
