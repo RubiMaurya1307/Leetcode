@@ -32,6 +32,7 @@
 | [0605-can-place-flowers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/RubiMaurya1307/Leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/RubiMaurya1307/Leetcode/tree/master/0792-binary-search) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/RubiMaurya1307/Leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
 ## Simulation
 |  |
