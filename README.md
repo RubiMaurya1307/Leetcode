@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/RubiMaurya1307/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/RubiMaurya1307/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/RubiMaurya1307/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/RubiMaurya1307/Leetcode/tree/master/0575-distribute-candies) |
@@ -84,6 +85,7 @@
 | [0217-contains-duplicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/RubiMaurya1307/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/RubiMaurya1307/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
