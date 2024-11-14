@@ -43,6 +43,7 @@
 | [0697-degree-of-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/RubiMaurya1307/Leetcode/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
 | [2048-build-array-from-permutation](https://github.com/RubiMaurya1307/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
@@ -61,6 +62,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RubiMaurya1307/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RubiMaurya1307/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,4 +196,12 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/RubiMaurya1307/Leetcode/tree/master/0506-relative-ranks) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
