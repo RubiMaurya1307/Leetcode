@@ -43,6 +43,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/RubiMaurya1307/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/RubiMaurya1307/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
