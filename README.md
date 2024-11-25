@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/RubiMaurya1307/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RubiMaurya1307/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/RubiMaurya1307/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/RubiMaurya1307/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/RubiMaurya1307/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/0217-contains-duplicate) |
@@ -191,6 +193,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/RubiMaurya1307/Leetcode/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/RubiMaurya1307/Leetcode/tree/master/0661-image-smoother) |
