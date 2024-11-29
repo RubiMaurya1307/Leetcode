@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RubiMaurya1307/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/RubiMaurya1307/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RubiMaurya1307/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -128,6 +129,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RubiMaurya1307/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0169-majority-element) |
 ## Tree
@@ -145,6 +147,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RubiMaurya1307/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/RubiMaurya1307/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RubiMaurya1307/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
