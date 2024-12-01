@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RubiMaurya1307/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/RubiMaurya1307/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/RubiMaurya1307/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/RubiMaurya1307/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
