@@ -20,6 +20,7 @@
 | [0056-merge-intervals](https://github.com/RubiMaurya1307/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RubiMaurya1307/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/RubiMaurya1307/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/RubiMaurya1307/Leetcode/tree/master/0118-pascals-triangle) |
@@ -71,6 +72,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RubiMaurya1307/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/RubiMaurya1307/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RubiMaurya1307/Leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/RubiMaurya1307/Leetcode/tree/master/0661-image-smoother) |
