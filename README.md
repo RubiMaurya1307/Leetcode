@@ -99,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/RubiMaurya1307/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0027-remove-element) |
@@ -171,6 +172,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/RubiMaurya1307/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/RubiMaurya1307/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/RubiMaurya1307/Leetcode/tree/master/0120-triangle) |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RubiMaurya1307/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RubiMaurya1307/Leetcode/tree/master/0058-length-of-last-word) |
