@@ -183,6 +183,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/RubiMaurya1307/Leetcode/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/RubiMaurya1307/Leetcode/tree/master/0118-pascals-triangle) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RubiMaurya1307/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RubiMaurya1307/Leetcode/tree/master/0058-length-of-last-word) |
@@ -320,4 +322,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
