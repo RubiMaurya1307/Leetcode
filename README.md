@@ -69,6 +69,7 @@
 | [0792-binary-search](https://github.com/RubiMaurya1307/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0817-design-hashmap) |
+| [1063-best-sightseeing-pair](https://github.com/RubiMaurya1307/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
 | [2048-build-array-from-permutation](https://github.com/RubiMaurya1307/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
@@ -193,6 +194,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RubiMaurya1307/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/RubiMaurya1307/Leetcode/tree/master/1063-best-sightseeing-pair) |
 ## Bit Manipulation
 |  |
 | ------- |
