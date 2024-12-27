@@ -248,6 +248,7 @@
 | [0383-ransom-note](https://github.com/RubiMaurya1307/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/RubiMaurya1307/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
+| [0482-license-key-formatting](https://github.com/RubiMaurya1307/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RubiMaurya1307/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
