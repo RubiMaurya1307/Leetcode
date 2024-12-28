@@ -252,6 +252,7 @@
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/RubiMaurya1307/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/RubiMaurya1307/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RubiMaurya1307/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Depth-First Search
