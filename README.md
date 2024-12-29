@@ -255,6 +255,7 @@
 | [0482-license-key-formatting](https://github.com/RubiMaurya1307/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/RubiMaurya1307/Leetcode/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RubiMaurya1307/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RubiMaurya1307/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
