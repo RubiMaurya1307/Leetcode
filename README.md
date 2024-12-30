@@ -260,6 +260,7 @@
 | [0551-student-attendance-record-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RubiMaurya1307/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0812-rotate-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0812-rotate-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RubiMaurya1307/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Depth-First Search
 |  |
@@ -349,4 +350,8 @@
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RubiMaurya1307/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
