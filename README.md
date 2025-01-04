@@ -134,6 +134,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RubiMaurya1307/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RubiMaurya1307/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -145,6 +146,7 @@
 | [0007-reverse-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RubiMaurya1307/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/RubiMaurya1307/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
