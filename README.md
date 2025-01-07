@@ -74,6 +74,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/RubiMaurya1307/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RubiMaurya1307/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1524-string-matching-in-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RubiMaurya1307/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RubiMaurya1307/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/RubiMaurya1307/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -290,6 +291,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RubiMaurya1307/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RubiMaurya1307/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RubiMaurya1307/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -389,4 +391,5 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
