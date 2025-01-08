@@ -82,6 +82,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RubiMaurya1307/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -300,6 +301,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RubiMaurya1307/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RubiMaurya1307/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -362,6 +364,7 @@
 | ------- |
 | [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0817-design-hashmap) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -377,6 +380,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
 | ------- |
@@ -394,4 +398,9 @@
 | ------- |
 | [0812-rotate-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
