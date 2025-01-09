@@ -195,6 +195,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RubiMaurya1307/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Search Tree
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Dynamic Programming
 |  |
@@ -241,6 +243,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
@@ -310,6 +313,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
