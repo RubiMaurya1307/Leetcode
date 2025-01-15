@@ -104,6 +104,7 @@
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -142,6 +143,7 @@
 | [0125-valid-palindrome](https://github.com/RubiMaurya1307/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -172,6 +174,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
