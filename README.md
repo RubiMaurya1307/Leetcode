@@ -172,6 +172,7 @@
 | [0007-reverse-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/RubiMaurya1307/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RubiMaurya1307/Leetcode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -308,6 +309,7 @@
 | [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RubiMaurya1307/Leetcode/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0097-interleaving-string) |
@@ -373,6 +375,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/RubiMaurya1307/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
