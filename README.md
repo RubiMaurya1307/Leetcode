@@ -79,6 +79,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/RubiMaurya1307/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RubiMaurya1307/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RubiMaurya1307/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RubiMaurya1307/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -362,6 +363,7 @@
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RubiMaurya1307/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Matrix
 |  |
@@ -372,6 +374,7 @@
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/RubiMaurya1307/Leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -406,6 +409,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/RubiMaurya1307/Leetcode/tree/master/0506-relative-ranks) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -444,6 +448,7 @@
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RubiMaurya1307/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## String Matching
 |  |
@@ -464,4 +469,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RubiMaurya1307/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
