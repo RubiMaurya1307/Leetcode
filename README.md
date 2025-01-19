@@ -182,6 +182,7 @@
 | [0171-excel-sheet-column-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/RubiMaurya1307/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -258,6 +259,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/RubiMaurya1307/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/RubiMaurya1307/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RubiMaurya1307/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -451,6 +453,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/RubiMaurya1307/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/RubiMaurya1307/Leetcode/tree/master/0231-power-of-two) |
 ## Graph
 |  |
 | ------- |
