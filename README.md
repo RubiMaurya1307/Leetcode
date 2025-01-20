@@ -178,6 +178,7 @@
 | [0029-divide-two-integers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/RubiMaurya1307/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/RubiMaurya1307/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RubiMaurya1307/Leetcode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -456,6 +457,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/RubiMaurya1307/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/RubiMaurya1307/Leetcode/tree/master/0231-power-of-two) |
 ## Graph
 |  |
