@@ -186,6 +186,7 @@
 | [0069-sqrtx](https://github.com/RubiMaurya1307/Leetcode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0204-count-primes) |
