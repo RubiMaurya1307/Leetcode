@@ -81,6 +81,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/RubiMaurya1307/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RubiMaurya1307/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1396-count-servers-that-communicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RubiMaurya1307/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -283,6 +284,7 @@
 | [0383-ransom-note](https://github.com/RubiMaurya1307/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1396-count-servers-that-communicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 ## Stack
 |  |
@@ -369,6 +371,7 @@
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
+| [1396-count-servers-that-communicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RubiMaurya1307/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -377,6 +380,7 @@
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
+| [1396-count-servers-that-communicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/RubiMaurya1307/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RubiMaurya1307/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -390,6 +394,7 @@
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/RubiMaurya1307/Leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
+| [1396-count-servers-that-communicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/RubiMaurya1307/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/2145-grid-game) |
@@ -452,6 +457,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Trie
 |  |
 | ------- |
