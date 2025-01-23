@@ -192,6 +192,7 @@
 | [0202-happy-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RubiMaurya1307/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/RubiMaurya1307/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -403,6 +404,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/RubiMaurya1307/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/RubiMaurya1307/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -510,4 +512,5 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/RubiMaurya1307/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
