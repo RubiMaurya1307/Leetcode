@@ -372,6 +372,7 @@
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/RubiMaurya1307/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RubiMaurya1307/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -381,6 +382,7 @@
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/RubiMaurya1307/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/RubiMaurya1307/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -479,6 +481,7 @@
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/RubiMaurya1307/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RubiMaurya1307/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## String Matching
@@ -513,4 +516,8 @@
 | ------- |
 | [0204-count-primes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RubiMaurya1307/Leetcode/tree/master/0258-add-digits) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/RubiMaurya1307/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
