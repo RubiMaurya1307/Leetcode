@@ -197,6 +197,7 @@
 | [0231-power-of-two](https://github.com/RubiMaurya1307/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RubiMaurya1307/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -511,6 +512,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0292-nim-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RubiMaurya1307/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Shortest Path
 |  |
@@ -530,4 +532,8 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/RubiMaurya1307/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RubiMaurya1307/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
