@@ -201,6 +201,7 @@
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Sorting
 |  |
 | ------- |
@@ -422,6 +423,7 @@
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/RubiMaurya1307/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -540,4 +542,5 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0292-nim-game) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
