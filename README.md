@@ -548,4 +548,8 @@
 | ------- |
 | [0292-nim-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0292-nim-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/RubiMaurya1307/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
