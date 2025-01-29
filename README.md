@@ -199,6 +199,7 @@
 | [0258-add-digits](https://github.com/RubiMaurya1307/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/RubiMaurya1307/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -278,6 +279,7 @@
 | [0029-divide-two-integers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RubiMaurya1307/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/RubiMaurya1307/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RubiMaurya1307/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RubiMaurya1307/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -496,6 +498,7 @@
 | [0050-powx-n](https://github.com/RubiMaurya1307/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/RubiMaurya1307/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/RubiMaurya1307/Leetcode/tree/master/0342-power-of-four) |
 ## Graph
 |  |
 | ------- |
