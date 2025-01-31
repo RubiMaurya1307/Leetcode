@@ -262,6 +262,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RubiMaurya1307/Leetcode/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0097-interleaving-string) |
@@ -340,6 +341,7 @@
 | [0013-roman-to-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RubiMaurya1307/Leetcode/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0097-interleaving-string) |
@@ -451,6 +453,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
@@ -509,6 +512,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RubiMaurya1307/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/RubiMaurya1307/Leetcode/tree/master/0231-power-of-two) |
