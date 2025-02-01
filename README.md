@@ -475,6 +475,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/RubiMaurya1307/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -513,6 +514,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/RubiMaurya1307/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RubiMaurya1307/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0060-permutation-sequence) |
