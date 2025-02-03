@@ -364,6 +364,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RubiMaurya1307/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
+| [0420-strong-password-checker](https://github.com/RubiMaurya1307/Leetcode/tree/master/0420-strong-password-checker) |
 | [0482-license-key-formatting](https://github.com/RubiMaurya1307/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/RubiMaurya1307/Leetcode/tree/master/0520-detect-capital) |
@@ -459,6 +460,7 @@
 | [0044-wildcard-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0179-largest-number) |
+| [0420-strong-password-checker](https://github.com/RubiMaurya1307/Leetcode/tree/master/0420-strong-password-checker) |
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -472,6 +474,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/RubiMaurya1307/Leetcode/tree/master/0420-strong-password-checker) |
 | [0506-relative-ranks](https://github.com/RubiMaurya1307/Leetcode/tree/master/0506-relative-ranks) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Linked List
