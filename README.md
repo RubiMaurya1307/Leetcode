@@ -156,6 +156,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RubiMaurya1307/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RubiMaurya1307/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2434-design-a-number-container-system](https://github.com/RubiMaurya1307/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RubiMaurya1307/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RubiMaurya1307/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -337,6 +338,7 @@
 | [0303-range-sum-query-immutable](https://github.com/RubiMaurya1307/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0817-design-hashmap) |
+| [2434-design-a-number-container-system](https://github.com/RubiMaurya1307/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -498,6 +500,7 @@
 | [0420-strong-password-checker](https://github.com/RubiMaurya1307/Leetcode/tree/master/0420-strong-password-checker) |
 | [0506-relative-ranks](https://github.com/RubiMaurya1307/Leetcode/tree/master/0506-relative-ranks) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/RubiMaurya1307/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Linked List
 |  |
 | ------- |
@@ -605,4 +608,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/RubiMaurya1307/Leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/RubiMaurya1307/Leetcode/tree/master/0182-duplicate-emails) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/RubiMaurya1307/Leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
