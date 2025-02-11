@@ -50,6 +50,7 @@
 | [0414-third-maximum-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/RubiMaurya1307/Leetcode/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/RubiMaurya1307/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/RubiMaurya1307/Leetcode/tree/master/0495-teemo-attacking) |
@@ -295,6 +296,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RubiMaurya1307/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/RubiMaurya1307/Leetcode/tree/master/0198-house-robber) |
+| [0472-concatenated-words](https://github.com/RubiMaurya1307/Leetcode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/RubiMaurya1307/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -394,6 +396,7 @@
 | [0409-longest-palindrome](https://github.com/RubiMaurya1307/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0420-strong-password-checker](https://github.com/RubiMaurya1307/Leetcode/tree/master/0420-strong-password-checker) |
+| [0472-concatenated-words](https://github.com/RubiMaurya1307/Leetcode/tree/master/0472-concatenated-words) |
 | [0482-license-key-formatting](https://github.com/RubiMaurya1307/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/RubiMaurya1307/Leetcode/tree/master/0520-detect-capital) |
@@ -425,6 +428,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/RubiMaurya1307/Leetcode/tree/master/0472-concatenated-words) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/RubiMaurya1307/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
@@ -552,6 +556,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
+| [0472-concatenated-words](https://github.com/RubiMaurya1307/Leetcode/tree/master/0472-concatenated-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
