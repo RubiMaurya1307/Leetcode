@@ -102,6 +102,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/RubiMaurya1307/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RubiMaurya1307/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RubiMaurya1307/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RubiMaurya1307/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RubiMaurya1307/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -161,6 +162,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RubiMaurya1307/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/RubiMaurya1307/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/RubiMaurya1307/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RubiMaurya1307/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RubiMaurya1307/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RubiMaurya1307/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -246,6 +248,7 @@
 | [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RubiMaurya1307/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0924-fair-candy-swap) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RubiMaurya1307/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RubiMaurya1307/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
@@ -522,6 +525,7 @@
 | [0506-relative-ranks](https://github.com/RubiMaurya1307/Leetcode/tree/master/0506-relative-ranks) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/RubiMaurya1307/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RubiMaurya1307/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Linked List
 |  |
 | ------- |
