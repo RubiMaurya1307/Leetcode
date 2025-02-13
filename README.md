@@ -185,6 +185,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
 ## Binary Search
@@ -303,6 +304,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RubiMaurya1307/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/RubiMaurya1307/Leetcode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/RubiMaurya1307/Leetcode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -401,6 +403,7 @@
 | [0383-ransom-note](https://github.com/RubiMaurya1307/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RubiMaurya1307/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/RubiMaurya1307/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0420-strong-password-checker](https://github.com/RubiMaurya1307/Leetcode/tree/master/0420-strong-password-checker) |
