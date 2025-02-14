@@ -296,6 +296,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/RubiMaurya1307/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RubiMaurya1307/Leetcode/tree/master/0053-maximum-subarray) |
@@ -345,6 +346,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RubiMaurya1307/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0682-baseball-game) |
@@ -386,6 +388,7 @@
 | [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/RubiMaurya1307/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RubiMaurya1307/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0044-wildcard-matching) |
