@@ -230,6 +230,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/RubiMaurya1307/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Sorting
 |  |
@@ -562,6 +563,7 @@
 | [0039-combination-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RubiMaurya1307/Leetcode/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Union Find
 |  |
 | ------- |
