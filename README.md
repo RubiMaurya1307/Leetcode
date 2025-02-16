@@ -94,6 +94,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RubiMaurya1307/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/RubiMaurya1307/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RubiMaurya1307/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RubiMaurya1307/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -565,6 +566,7 @@
 | [0039-combination-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RubiMaurya1307/Leetcode/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Union Find
 |  |
