@@ -23,6 +23,7 @@
 | [0059-spiral-matrix-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/RubiMaurya1307/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -203,6 +204,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RubiMaurya1307/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RubiMaurya1307/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -499,6 +501,7 @@
 | [0036-valid-sudoku](https://github.com/RubiMaurya1307/Leetcode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/RubiMaurya1307/Leetcode/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
