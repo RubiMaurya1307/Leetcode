@@ -342,6 +342,7 @@
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/RubiMaurya1307/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/RubiMaurya1307/Leetcode/tree/master/0397-integer-replacement) |
 | [0472-concatenated-words](https://github.com/RubiMaurya1307/Leetcode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -358,6 +359,7 @@
 | [0231-power-of-two](https://github.com/RubiMaurya1307/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RubiMaurya1307/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RubiMaurya1307/Leetcode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/RubiMaurya1307/Leetcode/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RubiMaurya1307/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/RubiMaurya1307/Leetcode/tree/master/2509-minimize-xor) |
@@ -574,6 +576,7 @@
 | [0044-wildcard-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/RubiMaurya1307/Leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/RubiMaurya1307/Leetcode/tree/master/0409-longest-palindrome) |
 | [0420-strong-password-checker](https://github.com/RubiMaurya1307/Leetcode/tree/master/0420-strong-password-checker) |
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
@@ -644,6 +647,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/RubiMaurya1307/Leetcode/tree/master/0397-integer-replacement) |
 ## Recursion
 |  |
 | ------- |
