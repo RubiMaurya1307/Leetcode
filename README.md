@@ -36,6 +36,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RubiMaurya1307/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RubiMaurya1307/Leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/RubiMaurya1307/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -607,6 +608,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/RubiMaurya1307/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/RubiMaurya1307/Leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/RubiMaurya1307/Leetcode/tree/master/0409-longest-palindrome) |
