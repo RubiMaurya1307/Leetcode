@@ -15,6 +15,7 @@
 | [0036-valid-sudoku](https://github.com/RubiMaurya1307/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RubiMaurya1307/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/RubiMaurya1307/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/RubiMaurya1307/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
@@ -145,6 +146,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RubiMaurya1307/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/RubiMaurya1307/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RubiMaurya1307/Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/RubiMaurya1307/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RubiMaurya1307/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
