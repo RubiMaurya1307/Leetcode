@@ -98,6 +98,7 @@
 | [0924-fair-candy-swap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/RubiMaurya1307/Leetcode/tree/master/0952-word-subsets) |
+| [0979-di-string-match](https://github.com/RubiMaurya1307/Leetcode/tree/master/0979-di-string-match) |
 | [1025-minimum-cost-for-tickets](https://github.com/RubiMaurya1307/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RubiMaurya1307/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -225,6 +226,7 @@
 | [0392-is-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RubiMaurya1307/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0979-di-string-match](https://github.com/RubiMaurya1307/Leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RubiMaurya1307/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -508,6 +510,7 @@
 | [0749-shortest-completing-word](https://github.com/RubiMaurya1307/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0812-rotate-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/RubiMaurya1307/Leetcode/tree/master/0952-word-subsets) |
+| [0979-di-string-match](https://github.com/RubiMaurya1307/Leetcode/tree/master/0979-di-string-match) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/RubiMaurya1307/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -641,6 +644,7 @@
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/RubiMaurya1307/Leetcode/tree/master/0890-lemonade-change) |
+| [0979-di-string-match](https://github.com/RubiMaurya1307/Leetcode/tree/master/0979-di-string-match) |
 | [1502-construct-k-palindrome-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RubiMaurya1307/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
