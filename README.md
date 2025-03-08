@@ -527,6 +527,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RubiMaurya1307/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RubiMaurya1307/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RubiMaurya1307/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RubiMaurya1307/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -630,6 +631,7 @@
 | [0219-contains-duplicate-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RubiMaurya1307/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Greedy
 |  |
 | ------- |
