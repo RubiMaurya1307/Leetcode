@@ -140,6 +140,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RubiMaurya1307/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RubiMaurya1307/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -635,6 +636,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RubiMaurya1307/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Greedy
 |  |
 | ------- |
