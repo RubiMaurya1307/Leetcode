@@ -338,6 +338,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -365,6 +366,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -439,6 +441,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RubiMaurya1307/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -553,6 +556,7 @@
 | [0130-surrounded-regions](https://github.com/RubiMaurya1307/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/RubiMaurya1307/Leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/RubiMaurya1307/Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
