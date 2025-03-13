@@ -143,6 +143,7 @@
 | [3429-special-array-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RubiMaurya1307/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,6 +256,7 @@
 | [0792-binary-search](https://github.com/RubiMaurya1307/Leetcode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0924-fair-candy-swap) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
@@ -476,6 +478,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RubiMaurya1307/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
