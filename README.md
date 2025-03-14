@@ -104,6 +104,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/RubiMaurya1307/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RubiMaurya1307/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/RubiMaurya1307/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/RubiMaurya1307/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -256,6 +257,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RubiMaurya1307/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RubiMaurya1307/Leetcode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/RubiMaurya1307/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Math
