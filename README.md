@@ -16,6 +16,7 @@
 | [0037-sudoku-solver](https://github.com/RubiMaurya1307/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/RubiMaurya1307/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/RubiMaurya1307/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/RubiMaurya1307/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0047-permutations-ii) |
@@ -220,6 +221,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RubiMaurya1307/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/RubiMaurya1307/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RubiMaurya1307/Leetcode/tree/master/0125-valid-palindrome) |
@@ -387,6 +389,7 @@
 | [0005-longest-palindromic-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/RubiMaurya1307/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RubiMaurya1307/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/RubiMaurya1307/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RubiMaurya1307/Leetcode/tree/master/0053-maximum-subarray) |
@@ -446,6 +449,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RubiMaurya1307/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RubiMaurya1307/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -457,6 +461,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RubiMaurya1307/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
