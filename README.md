@@ -106,6 +106,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/RubiMaurya1307/Leetcode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/RubiMaurya1307/Leetcode/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/RubiMaurya1307/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/RubiMaurya1307/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RubiMaurya1307/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -308,6 +309,7 @@
 | [0415-add-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/0415-add-strings) |
 | [0598-range-addition-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/RubiMaurya1307/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RubiMaurya1307/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -343,6 +345,7 @@
 | [0645-set-mismatch](https://github.com/RubiMaurya1307/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RubiMaurya1307/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1018-largest-perimeter-triangle](https://github.com/RubiMaurya1307/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RubiMaurya1307/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RubiMaurya1307/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/RubiMaurya1307/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -730,6 +733,7 @@
 | [0605-can-place-flowers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/RubiMaurya1307/Leetcode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/RubiMaurya1307/Leetcode/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/RubiMaurya1307/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1502-construct-k-palindrome-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RubiMaurya1307/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
