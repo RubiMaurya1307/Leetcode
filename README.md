@@ -210,6 +210,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RubiMaurya1307/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/RubiMaurya1307/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0768-partition-labels](https://github.com/RubiMaurya1307/Leetcode/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0817-design-hashmap) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -260,6 +261,7 @@
 | [0392-is-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RubiMaurya1307/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/RubiMaurya1307/Leetcode/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/RubiMaurya1307/Leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/RubiMaurya1307/Leetcode/tree/master/1168-duplicate-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RubiMaurya1307/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -596,6 +598,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RubiMaurya1307/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/RubiMaurya1307/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0768-partition-labels](https://github.com/RubiMaurya1307/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/RubiMaurya1307/Leetcode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/RubiMaurya1307/Leetcode/tree/master/0979-di-string-match) |
@@ -757,6 +760,7 @@
 | [0420-strong-password-checker](https://github.com/RubiMaurya1307/Leetcode/tree/master/0420-strong-password-checker) |
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/RubiMaurya1307/Leetcode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/RubiMaurya1307/Leetcode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/RubiMaurya1307/Leetcode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/RubiMaurya1307/Leetcode/tree/master/1018-largest-perimeter-triangle) |
