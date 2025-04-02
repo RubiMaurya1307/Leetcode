@@ -61,6 +61,7 @@
 | [0283-move-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/RubiMaurya1307/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RubiMaurya1307/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0321-create-maximum-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -259,6 +260,7 @@
 | [0189-rotate-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -522,6 +524,7 @@
 | [0042-trapping-rain-water](https://github.com/RubiMaurya1307/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0321-create-maximum-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -533,6 +536,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RubiMaurya1307/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RubiMaurya1307/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Design
@@ -768,6 +772,7 @@
 | [0045-jump-game-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/RubiMaurya1307/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0179-largest-number) |
+| [0321-create-maximum-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/RubiMaurya1307/Leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/RubiMaurya1307/Leetcode/tree/master/0409-longest-palindrome) |
