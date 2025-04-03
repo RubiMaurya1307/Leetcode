@@ -410,6 +410,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/RubiMaurya1307/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RubiMaurya1307/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -440,6 +441,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/RubiMaurya1307/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RubiMaurya1307/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -526,6 +528,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0321-create-maximum-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0321-create-maximum-number) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -596,6 +599,7 @@
 | [0242-valid-anagram](https://github.com/RubiMaurya1307/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RubiMaurya1307/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/RubiMaurya1307/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/RubiMaurya1307/Leetcode/tree/master/0383-ransom-note) |
