@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/RubiMaurya1307/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/RubiMaurya1307/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -502,6 +503,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/RubiMaurya1307/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/RubiMaurya1307/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -856,6 +858,7 @@
 | [0039-combination-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RubiMaurya1307/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/RubiMaurya1307/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
