@@ -71,6 +71,7 @@
 | [0399-evaluate-division](https://github.com/RubiMaurya1307/Leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/RubiMaurya1307/Leetcode/tree/master/0472-concatenated-words) |
@@ -485,6 +486,7 @@
 | [0368-largest-divisible-subset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/RubiMaurya1307/Leetcode/tree/master/0397-integer-replacement) |
+| [0416-partition-equal-subset-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/RubiMaurya1307/Leetcode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
