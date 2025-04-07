@@ -260,6 +260,7 @@
 | [0027-remove-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RubiMaurya1307/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RubiMaurya1307/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/RubiMaurya1307/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RubiMaurya1307/Leetcode/tree/master/0125-valid-palindrome) |
@@ -840,6 +841,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/RubiMaurya1307/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/RubiMaurya1307/Leetcode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0147-insertion-sort-list](https://github.com/RubiMaurya1307/Leetcode/tree/master/0147-insertion-sort-list) |
