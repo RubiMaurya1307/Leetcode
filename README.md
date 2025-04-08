@@ -57,6 +57,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0283-move-zeroes) |
@@ -205,6 +206,7 @@
 | [0205-isomorphic-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RubiMaurya1307/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RubiMaurya1307/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/RubiMaurya1307/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -371,6 +373,7 @@
 | [0169-majority-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RubiMaurya1307/Leetcode/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RubiMaurya1307/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -531,6 +534,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/RubiMaurya1307/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/RubiMaurya1307/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
