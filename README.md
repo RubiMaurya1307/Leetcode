@@ -81,6 +81,7 @@
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/RubiMaurya1307/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/RubiMaurya1307/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/RubiMaurya1307/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/RubiMaurya1307/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/RubiMaurya1307/Leetcode/tree/master/0561-array-partition) |
@@ -759,6 +760,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/RubiMaurya1307/Leetcode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/RubiMaurya1307/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/RubiMaurya1307/Leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/RubiMaurya1307/Leetcode/tree/master/0733-flood-fill) |
@@ -782,6 +784,7 @@
 | [0412-fizz-buzz](https://github.com/RubiMaurya1307/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/RubiMaurya1307/Leetcode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/RubiMaurya1307/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/RubiMaurya1307/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/RubiMaurya1307/Leetcode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RubiMaurya1307/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
