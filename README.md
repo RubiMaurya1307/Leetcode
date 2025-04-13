@@ -44,6 +44,7 @@
 | [0135-candy](https://github.com/RubiMaurya1307/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0162-find-peak-element) |
@@ -202,6 +203,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/RubiMaurya1307/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/RubiMaurya1307/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -499,6 +501,7 @@
 | [0120-triangle](https://github.com/RubiMaurya1307/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RubiMaurya1307/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/RubiMaurya1307/Leetcode/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RubiMaurya1307/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0337-house-robber-iii) |
@@ -635,6 +638,7 @@
 | [0125-valid-palindrome](https://github.com/RubiMaurya1307/Leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/RubiMaurya1307/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -894,6 +898,7 @@
 | [0078-subsets](https://github.com/RubiMaurya1307/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/RubiMaurya1307/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RubiMaurya1307/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -921,12 +926,14 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/RubiMaurya1307/Leetcode/tree/master/0472-concatenated-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/RubiMaurya1307/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/RubiMaurya1307/Leetcode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
