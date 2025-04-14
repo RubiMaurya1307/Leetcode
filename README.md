@@ -183,6 +183,7 @@
 | [3483-alternating-groups-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RubiMaurya1307/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RubiMaurya1307/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RubiMaurya1307/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -526,6 +527,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/RubiMaurya1307/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RubiMaurya1307/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RubiMaurya1307/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -550,6 +552,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/RubiMaurya1307/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RubiMaurya1307/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Counting
 |  |
 | ------- |
@@ -734,6 +737,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RubiMaurya1307/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/RubiMaurya1307/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RubiMaurya1307/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -908,6 +912,7 @@
 | [2107-find-unique-binary-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RubiMaurya1307/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Union Find
 |  |
 | ------- |
@@ -1065,4 +1070,8 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RubiMaurya1307/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/RubiMaurya1307/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+## Bitmask
+|  |
+| ------- |
+| [3649-minimum-time-to-break-locks-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 <!---LeetCode Topics End-->
