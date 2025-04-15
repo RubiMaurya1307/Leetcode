@@ -580,6 +580,7 @@
 | [0042-trapping-rain-water](https://github.com/RubiMaurya1307/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/RubiMaurya1307/Leetcode/tree/master/0155-min-stack) |
 | [0321-create-maximum-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/RubiMaurya1307/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0496-next-greater-element-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -599,6 +600,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RubiMaurya1307/Leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/RubiMaurya1307/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/RubiMaurya1307/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0817-design-hashmap) |
