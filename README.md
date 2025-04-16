@@ -681,6 +681,7 @@
 | [0749-shortest-completing-word](https://github.com/RubiMaurya1307/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/RubiMaurya1307/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/RubiMaurya1307/Leetcode/tree/master/0812-rotate-string) |
+| [0834-ambiguous-coordinates](https://github.com/RubiMaurya1307/Leetcode/tree/master/0834-ambiguous-coordinates) |
 | [0952-word-subsets](https://github.com/RubiMaurya1307/Leetcode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/RubiMaurya1307/Leetcode/tree/master/0979-di-string-match) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RubiMaurya1307/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -913,6 +914,7 @@
 | [0126-word-ladder-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0494-target-sum) |
+| [0834-ambiguous-coordinates](https://github.com/RubiMaurya1307/Leetcode/tree/master/0834-ambiguous-coordinates) |
 | [1160-letter-tile-possibilities](https://github.com/RubiMaurya1307/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RubiMaurya1307/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -1013,6 +1015,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RubiMaurya1307/Leetcode/tree/master/0204-count-primes) |
+| [0834-ambiguous-coordinates](https://github.com/RubiMaurya1307/Leetcode/tree/master/0834-ambiguous-coordinates) |
 | [1656-count-good-triplets](https://github.com/RubiMaurya1307/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RubiMaurya1307/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/RubiMaurya1307/Leetcode/tree/master/2998-count-symmetric-integers) |
