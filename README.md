@@ -58,6 +58,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RubiMaurya1307/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -392,6 +393,7 @@
 | [0169-majority-element](https://github.com/RubiMaurya1307/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RubiMaurya1307/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/RubiMaurya1307/Leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RubiMaurya1307/Leetcode/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -833,6 +835,7 @@
 | [0187-repeated-dna-sequences](https://github.com/RubiMaurya1307/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/RubiMaurya1307/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RubiMaurya1307/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/RubiMaurya1307/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/RubiMaurya1307/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -1052,6 +1055,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RubiMaurya1307/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/RubiMaurya1307/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
@@ -1070,6 +1074,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/RubiMaurya1307/Leetcode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/RubiMaurya1307/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
